@@ -1,9 +1,9 @@
 # Artes
 
-## tela de login
+## Tela de login
 ![TelaDeLogin](https://github.com/user-attachments/assets/7189608b-22c5-4309-80d4-89b24e2e8de6)
 
-## tela inicial
+## Tela inicial
 ![TelaInicial](https://github.com/user-attachments/assets/ad18eeb1-85db-4ea8-8a7e-d1e738726dd0)
 
 ## Logotipo
