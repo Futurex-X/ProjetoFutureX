@@ -69,7 +69,7 @@ ProjetoFutureX/
 - **João Pedro** – Tela de Login, integração GitHub e repositórios
 - **Ana Karine** – Calculadora, design das telas e testes
 - **Humberto** – Jogo da Velha, lógica e validações
-- **Hayana** – Documentação, testes e organização da apresentação
+- **Hayanna** – Documentação, testes e organização da apresentação
 
 ---
 
